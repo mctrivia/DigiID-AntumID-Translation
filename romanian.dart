@@ -5,7 +5,7 @@ final Map<String, String> romanian = {
 
   "setupTitle": "Setări DigiID:",
   "setupWarn":
-      "înainte de a continua, este foarte important să te asiguri că te afli într-o locație în siguranță fără oameni și camere de supraveghere în jurul tău.",
+      "Înainte de a continua, este foarte important să te asiguri că te afli într-o locație în siguranță fără oameni și camere de supraveghere în jurul tău.",
   "setupButtonCreate": "Creează un nou portofel",
   "setupButtonRecover": "Restabilește un portofel deja existent",
 

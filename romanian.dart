@@ -1,7 +1,7 @@
 final Map<String, String> romanian = {
-  "language": "Romanian",
+  "language": "Româna",
   "languageCode": "ro",
-  "languageMnemonic": "romanian", //options: english,french,italian,spanish
+  "languageMnemonic": "english", //options: english,french,italian,spanish
 
   "setupTitle": "Setări DigiID:",
   "setupWarn":

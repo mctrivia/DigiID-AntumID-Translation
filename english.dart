@@ -26,8 +26,7 @@ final Map<String, String> english = {
 
   "settingTitle": "Settings",
   "settingAllowBiometric": "Allow Biometric:",
-  "settingAuthenticate": "Please Authenticate",
-  "settingStyle": "Style(Reboot Required):",
+  "settingStyle": "Style:",
   "settingLanguage": "Language:",
 
   "digiidConfirmTitle": "Confirm Domain",
@@ -55,6 +54,16 @@ final Map<String, String> english = {
   "errorInvalidPin": "Invalid Pin",
   "errorNoConnection": "No Connection",
   "errorNotDigiIDQR": "Not DigiID QR",
+
+  "bioSettingsButton": "Go to settings",
+  "bioSettingsDescriptionAndroid": "Fingerprint is not set up on your device. Go to 'Settings > Security' to add your fingerprint.",
+  "bioSettingsDescriptionApple": "Please enable your Touch ID",
+  "bioLockOutTitle":  "Fingerprint Error",
+  "bioAuthenticateTitle": "Fingerprint Required",
+  "bioAuthenticateDescription": "Please Authenticate",
+  "bioHint": "Touch Sensor",
+  "bioSuccess": "Fingerprint Recognized",
+  "bioFail": "Fingerprint not recognized.  Try again.",
 
   "_Back": "Back",
   "_Submit": "Submit",

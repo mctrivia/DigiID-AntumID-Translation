@@ -14,7 +14,8 @@ final Map<String, String> dutch= {
   "Schrijf op papier of graveer in een stukje metaal.\nBewaar dit niet digitaal:",
   "setupCreateInstructions": "Klik op de woorden die daarnet zijn verschenen, hou rekenning met de volgorde:",
   "setupCreateButtonWaver": "Ik heb mijn herstelsleutel veilig offline opgeslagen en dit op een veilige plaats",
-
+  "setupCreateFail": "Verkeerde volgorde",
+  
   "setupRestoreTitle": "Herstel DigiID portemonnee",
   "setupRestoreInstructions": "kopieer mnemonisch woorden hier:",
 
@@ -25,7 +26,6 @@ final Map<String, String> dutch= {
 
   "settingTitle": "Instellingen",
   "settingAllowBiometric": "Biometrie toestaan:",
-  "settingAuthenticate": "Verifieer alstublieft",
   "settingStyle": "Stijl(Herstarten is noodzakelijk):",
   "settingLanguage": "Taal:",
 
@@ -54,6 +54,16 @@ final Map<String, String> dutch= {
   "errorInvalidPin": "Pincode onjuist",
   "errorNoConnection": "Geen connectie",
   "errorNotDigiIDQR": "Ongeldige DigiID QR Code",
+  
+  "bioSettingsButton": "Ga naar instellingen",
+  "bioSettingsDescriptionAndroid": "Uw vingerafdruk is nog niet ingesteld op uw apparaat. Ga naar 'Instellingen> Beveiliging' om uw vingerafdruk toe te voegen.",
+  "bioSettingsDescriptionApple": "Schakel uw Touch ID in",
+  "bioLockOutTitle":  "Fout in vingerafdruk",
+  "bioAuthenticateTitle": "Vingerafdruk vereist",
+  "bioAuthenticateDescription": "Authenticatie vereist",
+  "bioHint": "Touch Sensor",
+  "bioSuccess": "Vingerafdruk herkend",
+  "bioFail": "Vingerafdruk niet herkend. Probeer het opnieuw.",
 
   "_Back": "Terug",
   "_Submit": "Enter",

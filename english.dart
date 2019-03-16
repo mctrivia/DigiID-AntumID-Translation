@@ -15,7 +15,8 @@ final Map<String, String> english = {
   "setupCreateInstructions": "Click words in order they appeared:",
   "setupCreateButtonWaver":
       "I have safely stored my seed phrase offline and in a safe place",
-
+  "setupCreateFail": "Wrong order",
+  
   "setupRestoreTitle": "DigiID Wallet Restorer",
   "setupRestoreInstructions": "Copy mnemonic phrase here:",
 

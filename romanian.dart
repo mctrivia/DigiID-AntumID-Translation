@@ -1,5 +1,5 @@
 final Map<String, String> romanian = {
-  "language": "Româna",
+  "language": "Română",
   "languageCode": "ro",
   "languageMnemonic": "english", //options: english,french,italian,spanish
 

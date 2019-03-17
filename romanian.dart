@@ -4,40 +4,40 @@ final Map<String, String> romanian = {
   "languageMnemonic": "english", //options: english,french,italian,spanish
 
   "setupTitle": "Setări DigiID:",
-  "setupWarn": "Înainte de a continua, este foarte important să te asiguri că te afli într-o locație în siguranță fără oameni și camere de supraveghere în jurul tău.",
+  "setupWarn": "Înainte de a continua, asigură-te că te afli într-o locație în siguranță fără oameni și camere de supraveghere în juru tău.",
   "setupButtonCreate": "Creează un nou portofel",
-  "setupButtonRecover": "Restabilește un portofel deja existent",
+  "setupButtonRecover": "Recuperează un portofel deja existent",
 
   "setupCreateTitle": "Crearea portofelului DigiID",
-  "setupCreateWarn": "Scrie pe o foaie.\nA se nu se salva pe niciun dispozitiv electronic:",
-  "setupCreateTemplate": "Descărcați șablonul",
-  "setupCreateInstructions": "Apasă pe cuvinte în ordinea care au apărut:",
-  "setupCreateButtonWaver": "Am salvat offline și în siguranță propoziția seed într-un loc protejat",
-  "setupCreateFail": "Ordine Greșită",
+  "setupCreateWarn": "Scrie pe o foaie cuvintele de mai jos în aceeași ordine.\nPentru motive de securitate, a se nu se salva pe niciun dispozitiv electronic:",
+  "setupCreateTemplate": "Descarcă șablonul",
+  "setupCreateInstructions": "Apasă pe cuvintele de mai jos în aceeași ordinea în care le-ai scris:",
+  "setupCreateButtonWaver": "Propoziția seed a fost salvată offline într-o locație securizată",
+  "setupCreateFail": "Cuvintele selectate sunt puse în ordinea greșită",
 
-  "setupRestoreTitle": "DigiID Recuperarea portofelului",
-  "setupRestoreInstructions": "Copiază propoziția mnemonic aici:",
+  "setupRestoreTitle": "Recuperarea portofelului DigiID",
+  "setupRestoreInstructions": "Copiază propoziția seed aici:",
 
   "setupSaveTitle": "DigiID Protecție prin PIN",
-  "setupSaveSetPin": "Alege un PIN:",
+  "setupSaveSetPin": "Alege PIN-ul:",
   "setupSaveSaving":  "Salvarea seed-ului",
   "setupSavePinNote": "*Numere schimbate pentru a evita regăsirea amprentelor.",
 
   "settingTitle": "Setări",
-  "settingAllowBiometric": "Permite Biometric:",
+  "settingAllowBiometric": "Permite accesul la tehnologia biometrică al telefonului (ex: amprentele):",
   "settingStyle": "Tip:",
   "settingLanguage": "Limba:",
 
   "digiidConfirmTitle": "Confirmă domeniul",
-  "digiidConfirmInstructions": "Introduce PIN-ul dacă este cerut",
+  "digiidConfirmInstructions": "Introduce PIN-ul (dacă este cerut)",
   "digiidConfirmWaiting": "Negociind cu site-ul",
-  "digiidConfirmBackupInstructions": "Aceasta este metoda de recuperare a parolei tale.\nNu adăugați spații.\n\n",
+  "digiidConfirmBackupInstructions": "Aceasta este metoda de recuperare a parolei tale.\nNu adăuga spații.\n\n",
 
   "digipassTitle": "DigiPassword Generator",
   "digipassSiteHint": "Domeniul site-ului",
   "digipassInstructionAbove": "Introduce domeniul mai sus, iar după care PIN-ul:",
   "digipassInstructionBelow": "Introduce domeniul mai jos, iar după care PIN-ul:",
-  "digipassNote": "*Bazându-ne pe seed-ul contului tău și datele introduse mai sus, o să fie generată o parola unică. Dacă data viitoare vei insera același date, o să fie generată aceeași parolă.",
+  "digipassNote": "*Bazându-ne pe propoziția seed a contului tău și datele introduse mai sus, o să fie generată o parola unică. Dacă data viitoare vei insera același date, o să fie generată aceeași parolă.",
   "digipassPasswordCopy": "Parola ta (apasă pentru a copia):",
 
   "warningInvalidChecksum": "Checksum invalid!  Ești sigur că este corect?",
@@ -45,11 +45,11 @@ final Map<String, String> romanian = {
 //$enteredBitLength
   "warningShortMnemonic2": " bits. Propozițiile mnemonice mai scurte de 128bits nu sunt recomandate.",
 
-  "errorNoCamera": "Fără permisiuni de access la camera foto!",
+  "errorNoCamera": "Pentru a putea continua trebuie să permiți aplicației accesul la camera foto al smartphone-ului!",
   "errorUnknown": "Eroare necunoscută: ",
   "errorInvalidPin": "PIN invalid",
-  "errorNoConnection": "Nicio conexiune",
-  "errorNotDigiIDQR": "Nu este un DigiID QR",
+  "errorNoConnection": "Fără conexiune la internet",
+  "errorNotDigiIDQR": "Nu este un cod QR DigiID",
 
   "bioSettingsButton": "Du-te la setări",
   "bioSettingsDescriptionAndroid": "Amprentele nu sunt setate pe acest dispozitiv. Navighează la 'Setări > Securitate' pentru a adăuga amprentele tale.",

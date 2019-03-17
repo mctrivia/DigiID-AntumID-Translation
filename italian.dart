@@ -4,17 +4,16 @@ final Map<String, String> italian = {
   "languageMnemonic": "italian", //options: english,french,italian,spanish
 
   "setupTitle": "Impostazione DigiID:",
-  "setupWarn":
-  "È molto importante assicurarsi di essere in un luogo sicuro senza telecamere o persone che guardano prima di continuare.",
+  "setupWarn": "È molto importante assicurarsi di essere in un luogo sicuro senza telecamere o persone che guardano prima di continuare.",
   "setupButtonCreate": "Crea Nuovo Portafoglio",
   "setupButtonRecover": "Recupera Portafoglio",
 
   "setupCreateTitle": "DigiID Wallet Creator",
-  "setupCreateWarn":
-  "Scrivi su carta o pugno in metallo.\nNon conservare elettronicamente:",
+  "setupCreateWarn": "Scrivi su carta o pugno in metallo.\nNon conservare elettronicamente:",
+  "setupCreateTemplate": "Scarica il Modello",
   "setupCreateInstructions": "Fai clic sulle parole nell'ordine in cui sono apparse:",
-  "setupCreateButtonWaver":
-  "Ho archiviato in modo sicuro la mia frase seme offline e in un posto sicuro",
+  "setupCreateButtonWaver": "Ho archiviato in modo sicuro la mia frase seme offline e in un posto sicuro",
+  "setupCreateFail": "Ordine Errato",
 
   "setupRestoreTitle": "DigiID Portafoglio Restauratore",
   "setupRestoreInstructions": "Copia la frase mnemonica qui:",
@@ -33,22 +32,19 @@ final Map<String, String> italian = {
   "digiidConfirmTitle": "Conferma Dominio",
   "digiidConfirmInstructions": "Immettere il pin se la barra degli indirizzi ha dichiarato ",
   "digiidConfirmWaiting": "Negoziare con il sito",
-  "digiidConfirmBackupInstructions":
-  "Questa è la tua password di backup.\nNon inserire spazi.\n\n",
+  "digiidConfirmBackupInstructions": "Questa è la tua password di backup.\nNon inserire spazi.\n\n",
 
   "digipassTitle": "DigiPassword Generator",
   "digipassSiteHint": "Dominio del Sito",
   "digipassInstructionAbove": "Inserisci il dominio sopra quindi inserisci il pin:",
   "digipassInstructionBelow": "Inserisci il dominio qui sotto quindi inserisci il pin:",
-  "digipassNote":
-  "*In base al seme del tuo account e all'input sopra questo genererà una password univoca per te. Se inserisci la stessa parola o frase una seconda volta, verrà generata la stessa password.",
+  "digipassNote": "*In base al seme del tuo account e all'input sopra questo genererà una password univoca per te. Se inserisci la stessa parola o frase una seconda volta, verrà generata la stessa password.",
   "digipassPasswordCopy": "La tua password (tocca per copiare):",
 
   "warningInvalidChecksum": "Checksum non valido! Sei sicuro che sia corretto?",
   "warningShortMnemonic1": "Frase mnemonica a soli ",
 //$enteredBitLength
-  "warningShortMnemonic2":
-  " bit. Le frasi mnemoniche più brevi di 128 bit non sono raccomandate.",
+  "warningShortMnemonic2": " bit. Le frasi mnemoniche più brevi di 128 bit non sono raccomandate.",
 
   "errorNoCamera": "Nessun permesso per la fotocamera!",
   "errorUnknown": "Errore sconosciuto: ",

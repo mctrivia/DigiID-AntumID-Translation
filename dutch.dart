@@ -4,14 +4,13 @@ final Map<String, String> dutch= {
   "languageMnemonic": "english", //options: english,french,italian,spanish
 
   "setupTitle": "DigiID installatie:",
-  "setupWarn":
-  "Het is erg belangrijk om ervoor te zorgen dat u op een veilige plaats bent zonder camera's of mensen die kijken voordat u verdergaat.",
+  "setupWarn": "Het is erg belangrijk om ervoor te zorgen dat u op een veilige plaats bent zonder camera's of mensen die kijken voordat u verdergaat.",
   "setupButtonCreate": "Nieuwe portemonnee",
   "setupButtonRecover": "Herstel portemonnee",
 
   "setupCreateTitle": "Maak DigiID portemonnee",
-  "setupCreateWarn":
-  "Schrijf op papier of graveer in een stukje metaal.\nBewaar dit niet digitaal:",
+  "setupCreateWarn": "Schrijf op papier of graveer in een stukje metaal.\nBewaar dit niet digitaal:",
+  "setupCreateTemplate": "Sjabloon Downloaden",
   "setupCreateInstructions": "Klik op de woorden die daarnet zijn verschenen, hou rekenning met de volgorde:",
   "setupCreateButtonWaver": "Ik heb mijn herstelsleutel veilig offline opgeslagen en dit op een veilige plaats",
   "setupCreateFail": "Verkeerde volgorde",
@@ -32,22 +31,19 @@ final Map<String, String> dutch= {
   "digiidConfirmTitle": "Bevestig domein",
   "digiidConfirmInstructions": "Geef uw pincode in als de adresbalk overeenkomt met ",
   "digiidConfirmWaiting": "Onderhandelen met site",
-  "digiidConfirmBackupInstructions":
-  "Dit is je backup wachtwoord.\nGebruik geen spaties.\n\n",
+  "digiidConfirmBackupInstructions": "Dit is je backup wachtwoord.\nGebruik geen spaties.\n\n",
 
   "digipassTitle": "DigiPassword generator",
   "digipassSiteHint": "Site domein",
   "digipassInstructionAbove": "Vul het domein hierboven in en vervolgens uw pincode:",
   "digipassInstructionBelow": "Vul het domein hieronder in en vervolgens uw pincode:",
-  "digipassNote":
-  "*Op basis van uw account sleutel en de bovenstaande invoer genereert dit een uniek wachtwoord voor u. Als u hetzelfde woord of dezelfde zin een tweede keer invoert, wordt hetzelfde wachtwoord gegenereerd.",
+  "digipassNote": "*Op basis van uw account sleutel en de bovenstaande invoer genereert dit een uniek wachtwoord voor u. Als u hetzelfde woord of dezelfde zin een tweede keer invoert, wordt hetzelfde wachtwoord gegenereerd.",
   "digipassPasswordCopy": "Uw wachtwoord (tik om te kopiëren):",
 
   "warningInvalidChecksum": "Onjuiste checksum! Bent u zeker dat dit correct is?",
   "warningShortMnemonic1": "Alleen mnemonisch woorden ",
 //$enteredBitLength
-  "warningShortMnemonic2":
-  " bits. mnemonisch woorden zijn korter dan 128 bit deze worden niet aanbevolen!",
+  "warningShortMnemonic2": " bits. mnemonisch woorden zijn korter dan 128 bit deze worden niet aanbevolen!",
 
   "errorNoCamera": "App heeft geen cameratoestemming!",
   "errorUnknown": "Onbekende fout: ",

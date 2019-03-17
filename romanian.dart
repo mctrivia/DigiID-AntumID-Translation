@@ -41,9 +41,9 @@ final Map<String, String> romanian = {
   "digipassPasswordCopy": "Parola ta (apasă pentru a copia):",
 
   "warningInvalidChecksum": "Checksum invalid!  Ești sigur că este corect?",
-  "warningShortMnemonic1": "Doar propoziția mnemonic ",
+  "warningShortMnemonic1": "Propoziția seed are doar ",
 //$enteredBitLength
-  "warningShortMnemonic2": " bits. Propozițiile mnemonice mai scurte de 128bits nu sunt recomandate.",
+  "warningShortMnemonic2": " bits. Propozițiile seed mai scurte de 128bits nu sunt recomandate.",
 
   "errorNoCamera": "Pentru a putea continua trebuie să permiți aplicației accesul la camera foto al smartphone-ului!",
   "errorUnknown": "Eroare necunoscută: ",

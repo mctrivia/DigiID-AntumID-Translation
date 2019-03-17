@@ -12,7 +12,7 @@ final Map<String, String> romanian = {
   "setupCreateWarn": "Scrie pe o foaie cuvintele de mai jos în aceeași ordine.\nPentru motive de securitate, a se nu se salva pe niciun dispozitiv electronic:",
   "setupCreateTemplate": "Descarcă șablonul",
   "setupCreateInstructions": "Apasă pe cuvintele de mai jos în aceeași ordinea în care le-ai scris:",
-  "setupCreateButtonWaver": "Propoziția seed a fost salvată offline într-o locație securizată",
+  "setupCreateButtonWaver": "Am salvat offline propoziția seed într-un loc doar mie cunoscut",
   "setupCreateFail": "Cuvintele selectate sunt puse în ordinea greșită",
 
   "setupRestoreTitle": "Recuperarea portofelului DigiID",

@@ -1,7 +1,7 @@
 final Map<String, String> greek = {
   "language": "Greek",
   "languageCode": "gr",
-  "languageMnemonic": "greek", //options: english,french,italian,spanish
+  "languageMnemonic": "english", //options: english,french,italian,spanish
 
   "setupTitle": "Εγκατάσταση DigiID:",
   "setupWarn":

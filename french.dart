@@ -25,15 +25,13 @@ final Map<String, String> french = {
 
   "settingTitle": "Réglages",
   "settingAllowBiometric": "Autoriser biométrique:",
-  "settingAuthenticate": "S'il vous plaît authentifier",
   "settingStyle": "Style(Reboot Required):",
   "settingLanguage": "La langue:",
 
   "digiidConfirmTitle": "Confirmer le Domaine",
   "digiidConfirmInstructions": "Entrez NIP si la barre d’adresse a déclaré ",
   "digiidConfirmWaiting": "Négociation avec le site",
-  "digiidConfirmBackupInstructions":
-  "Ceci est votre mot de passe de sauvegarde.\nNe pas entrer dans les espaces.\n\n",
+  "digiidConfirmBackupInstructions": "Ceci est votre mot de passe de sauvegarde.\nNe pas entrer dans les espaces.\n\n",
 
   "digipassTitle": "Générateur DigiPassword",
   "digipassSiteHint": "Domaine du Site",
@@ -53,7 +51,18 @@ final Map<String, String> french = {
   "errorNoConnection": "Pas de Connection",
   "errorNotDigiIDQR": "Pas DigiID QR",
 
+  "bioSettingsButton": "Aller aux paramètres",
+  "bioSettingsDescriptionAndroid": "L'empreinte digitale n'est pas configurée sur votre appareil. Allez dans 'Paramètres> Sécurité' pour ajouter votre empreinte digitale.",
+  "bioSettingsDescriptionApple": "Veuillez activer votre Touch ID",
+  "bioLockOutTitle":  "Erreur d'empreinte digitale",
+  "bioAuthenticateTitle": "Empreinte digitale requise",
+  "bioAuthenticateDescription": "S'il vous plaît authentifier",
+  "bioHint": "Toucher le capteur",
+  "bioSuccess": "Empreinte digitale reconnue",
+  "bioFail": "Empreinte digitale non reconnue. Réessayer.",
+
   "_Back": "Retour",
+  "_Submit": "Soumission",
   "_Cancel": "Annuler",
   "_Verify": "Vérifier",
   "_Warning": "Attention",

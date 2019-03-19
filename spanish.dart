@@ -1,7 +1,7 @@
 final Map<String, String> spanish = {
   "language": "Español",
   "languageCode": "es",
-  "languageMnemonic": "spanosh", //options: english,french,italian,spanish
+  "languageMnemonic": "spanish", //options: english,french,italian,spanish
 
   "setupTitle": "Configuración de DigiID:",
   "setupWarn": "Es muy importante asegurarse de estar en un lugar seguro sin cámaras ni personas mirando antes de continuar.",
@@ -25,15 +25,13 @@ final Map<String, String> spanish = {
 
   "settingTitle": "Ajustes",
   "settingAllowBiometric": "Permitir biométrico:",
-  "settingAuthenticate": "Por favor Autentique",
   "settingStyle": "Estilo (reinicio requerido):",
   "settingLanguage": "Idioma:",
 
   "digiidConfirmTitle": "Confirmar Dominio",
   "digiidConfirmInstructions": "Introduzca pin si la barra de direcciones dice ",
   "digiidConfirmWaiting": "Negociación con sitio",
-  "digiidConfirmBackupInstructions":
-  "Esta es su contraseña de respaldo.\nNo entrar en espacios.\n\n",
+  "digiidConfirmBackupInstructions": "Esta es su contraseña de respaldo.\nNo entrar en espacios.\n\n",
 
   "digipassTitle": "Generador DigiPassword",
   "digipassSiteHint": "Dominio del sitio",
@@ -53,7 +51,18 @@ final Map<String, String> spanish = {
   "errorNoConnection": "Sin Conexión",
   "errorNotDigiIDQR": "No DigiID QR",
 
+  "bioSettingsButton": "Ir a la configuración",
+  "bioSettingsDescriptionAndroid": "la huella digital no está configurada en su dispositivo. Vaya a 'Configuración> Seguridad' para agregar su huella digital.",
+  "bioSettingsDescriptionApple": "Por favor, active su ID de toque",
+  "bioLockOutTitle":  "Error de huella dactilar",
+  "bioAuthenticateTitle": "Huella digital requerida",
+  "bioAuthenticateDescription": "Por favor Autentique",
+  "bioHint": "Toque el sensor",
+  "bioSuccess": "Reconocimiento de huellas dactilares",
+  "bioFail": "Huella digital no reconocida. Inténtalo de nuevo.",
+
   "_Back": "Espalda",
+  "_Submit": "Enviar",
   "_Cancel": "Cancelar",
   "_Verify": "Verificar",
   "_Warning": "Advertencia",

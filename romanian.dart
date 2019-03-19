@@ -24,7 +24,7 @@ final Map<String, String> romanian = {
   "setupSavePinNote": "*Numere schimbate pentru a evita regăsirea amprentelor.",
 
   "settingTitle": "Setări",
-  "settingAllowBiometric": "Permite accesul la tehnologia biometrică al telefonului (ex: amprentele):",
+  "settingAllowBiometric": "Folosește tehnologia biometrică:",
   "settingStyle": "Tip:",
   "settingLanguage": "Limba:",
 

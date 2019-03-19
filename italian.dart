@@ -10,7 +10,7 @@ final Map<String, String> italian = {
 
   "setupCreateTitle": "Creazione portfolio DigiID",
   "setupCreateWarn": "Scrivi nello stesso ordine le seguenti parole su un pezzo di carta.\nPer ragioni di sicurezza è meglio non salvarle su un dispositivo elettronico:",
-  "setupCreateTemplate": "Scarica il template dove puoi scrivere le seguenti parole (dopo averlo stampato)",
+  "setupCreateTemplate": "Scarica il template",
   "setupCreateInstructions": "Fai clic sulle parole nell'ordine in cui sono apparse:",
   "setupCreateButtonWaver": "Ho salvato offline in modo sicuro la mia frase seed in un posto solo da me conosciuto",
   "setupCreateFail": "Ordine errato",
@@ -24,8 +24,7 @@ final Map<String, String> italian = {
   "setupSavePinNote": "*Numeri sono cambiati per impedire il tracciamento delle tue impronte digitali.",
 
   "settingTitle": "Impostazioni",
-  "settingAllowBiometric": "Consenti l'accesso alla tecnologia biometrica (ex: lettore delle impronte):",
-  "settingAuthenticate": "Bisogna autentificarsi",
+  "settingAllowBiometric": "Consenti l'uso biometrico:",
   "settingStyle": "Stile (riavvio richiesto):",
   "settingLanguage": "Lingua:",
 
@@ -42,7 +41,7 @@ final Map<String, String> italian = {
   "digipassPasswordCopy": "La tua password (tocca per copiare):",
 
   "warningInvalidChecksum": "Checksum non valido! Sei sicuro che sia corretto?",
-  "warningShortMnemonic1": "La frase seed a soli ",
+  "warningShortMnemonic1": "La frase seed ha soli ",
 //$enteredBitLength
   "warningShortMnemonic2": " bit. Le frasi seed più brevi di 128 bit non sono raccomandate.",
 
@@ -52,7 +51,18 @@ final Map<String, String> italian = {
   "errorNoConnection": "Nessuna connessione",
   "errorNotDigiIDQR": "Codice QR DigiID non valido",
 
+  "bioSettingsButton": "Vai alle impostazioni",
+  "bioSettingsDescriptionAndroid": "L'impronta digitale non è impostata sul tuo dispositivo. Vai su 'Impostazioni> Sicurezza' per aggiungere l'impronta digitale.",
+  "bioSettingsDescriptionApple": "Si prega di abilitare il tuo Touch ID",
+  "bioLockOutTitle":  "Impronta digitale",
+  "bioAuthenticateTitle": "Impronta digitale richiesta",
+  "bioAuthenticateDescription": "Bisogna autentificarsi",
+  "bioHint": "Tocca il sensore",
+  "bioSuccess": "Impronta digitale riconosciuta",
+  "bioFail": "Impronta digitale non riconosciuta. Riprova.",
+
   "_Back": "Indietro",
+  "_Submit": "Invia",
   "_Cancel": "Annulla",
   "_Verify": "Verifica",
   "_Warning": "Attenzione",

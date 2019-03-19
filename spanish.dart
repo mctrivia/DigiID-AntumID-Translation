@@ -1,20 +1,19 @@
 final Map<String, String> spanish = {
   "language": "Español",
   "languageCode": "es",
-  "languageMnemonic": "spanosh", //options: english,french,italian,spanish
+  "languageMnemonic": "spanish", //options: english,french,italian,spanish
 
   "setupTitle": "Configuración de DigiID:",
-  "setupWarn":
-  "Es muy importante asegurarse de estar en un lugar seguro sin cámaras ni personas mirando antes de continuar.",
+  "setupWarn": "Es muy importante asegurarse de estar en un lugar seguro sin cámaras ni personas mirando antes de continuar.",
   "setupButtonCreate": "Crear Nueva Cartera",
   "setupButtonRecover": "Recuperar Billetera",
 
   "setupCreateTitle": "Creador de Cartera DigiID",
-  "setupCreateWarn":
-  "Escribir en papel o punzón en metal.\nNo almacenar electrónicamente:",
+  "setupCreateWarn": "Escribir en papel o punzón en metal.\nNo almacenar electrónicamente:",
+  "setupCreateTemplate": "Descargar Plantilla",
   "setupCreateInstructions": "Haga clic en las palabras para que aparezcan:",
-  "setupCreateButtonWaver":
-  "He guardado de forma segura mi frase semilla fuera de línea y en un lugar seguro",
+  "setupCreateButtonWaver": "He guardado de forma segura mi frase semilla fuera de línea y en un lugar seguro",
+  "setupCreateFail": "Orden Incorrecto",
 
   "setupRestoreTitle": "Restaurador de Cartera DigiID",
   "setupRestoreInstructions": "Copia frase mnemotécnica aquí:",
@@ -26,29 +25,25 @@ final Map<String, String> spanish = {
 
   "settingTitle": "Ajustes",
   "settingAllowBiometric": "Permitir biométrico:",
-  "settingAuthenticate": "Por favor Autentique",
   "settingStyle": "Estilo (reinicio requerido):",
   "settingLanguage": "Idioma:",
 
   "digiidConfirmTitle": "Confirmar Dominio",
   "digiidConfirmInstructions": "Introduzca pin si la barra de direcciones dice ",
   "digiidConfirmWaiting": "Negociación con sitio",
-  "digiidConfirmBackupInstructions":
-  "Esta es su contraseña de respaldo.\nNo entrar en espacios.\n\n",
+  "digiidConfirmBackupInstructions": "Esta es su contraseña de respaldo.\nNo entrar en espacios.\n\n",
 
   "digipassTitle": "Generador DigiPassword",
   "digipassSiteHint": "Dominio del sitio",
   "digipassInstructionAbove": "Ingrese el dominio arriba y luego ingrese el pin:",
   "digipassInstructionBelow": "Ingrese el dominio abajo y luego ingrese el pin:",
-  "digipassNote":
-  "*En base a la información inicial de su cuenta y la entrada anterior, se generará una contraseña única para usted. Si ingresa la misma palabra o frase por segunda vez, se generará la misma contraseña.",
+  "digipassNote": "*En base a la información inicial de su cuenta y la entrada anterior, se generará una contraseña única para usted. Si ingresa la misma palabra o frase por segunda vez, se generará la misma contraseña.",
   "digipassPasswordCopy": "Su contraseña (toque para copiar):",
 
   "warningInvalidChecksum": "Suma de comprobación no válida ¿Estas seguro que esto es correcto?",
   "warningShortMnemonic1": "Frase mnemotécnica de solo ",
 //$enteredBitLength
-  "warningShortMnemonic2":
-  " bits. No se recomiendan frases mnemónicas de menos de 128 bits.",
+  "warningShortMnemonic2": " bits. No se recomiendan frases mnemónicas de menos de 128 bits.",
 
   "errorNoCamera": "Sin permiso de la cámara!",
   "errorUnknown": "Error desconocido: ",
@@ -56,7 +51,18 @@ final Map<String, String> spanish = {
   "errorNoConnection": "Sin Conexión",
   "errorNotDigiIDQR": "No DigiID QR",
 
+  "bioSettingsButton": "Ir a la configuración",
+  "bioSettingsDescriptionAndroid": "la huella digital no está configurada en su dispositivo. Vaya a 'Configuración> Seguridad' para agregar su huella digital.",
+  "bioSettingsDescriptionApple": "Por favor, active su ID de toque",
+  "bioLockOutTitle":  "Error de huella dactilar",
+  "bioAuthenticateTitle": "Huella digital requerida",
+  "bioAuthenticateDescription": "Por favor Autentique",
+  "bioHint": "Toque el sensor",
+  "bioSuccess": "Reconocimiento de huellas dactilares",
+  "bioFail": "Huella digital no reconocida. Inténtalo de nuevo.",
+
   "_Back": "Espalda",
+  "_Submit": "Enviar",
   "_Cancel": "Cancelar",
   "_Verify": "Verificar",
   "_Warning": "Advertencia",

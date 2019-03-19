@@ -1,5 +1,5 @@
 final Map<String, String> greek = {
-  "language": "Greek",
+  "language": "Ελληνικά",
   "languageCode": "gr",
   "languageMnemonic": "english", //options: english,french,italian,spanish
 
@@ -16,6 +16,7 @@ final Map<String, String> greek = {
   "setupCreateButtonWaver":
       "Έχω αποθηκεύσει με ασφάλεια την φράση seed, εκτός σύνδεσης και σε ασφαλές μέρος.",
   "setupCreateFail": "Λάθος σειρά",
+  "setupCreateTemplate": "Λήψη Προτύπου",
   
   "setupRestoreTitle": "Οδηγός Ανάκτησης Πορτοφολιού DigiID",
   "setupRestoreInstructions": "Αντιγράψτε τη φράση seed εδώ:",
@@ -45,7 +46,7 @@ final Map<String, String> greek = {
   "digipassPasswordCopy": "Ο κωδικός σας(πατήστε για αντιγραφή):",
 
   "warningInvalidChecksum": "Μη έγκυρο άρθροισμα ελέγχου (checksum)!  Είστε σίγουρος πως είναι σωστό?",
-  "warningShortMnemonic1": "Μόνο μνημονική φράση ",
+  "warningShortMnemonic1": "Μήκος μνημονικής φράσης μόνο",
 //$enteredBitLength
   "warningShortMnemonic2":
       " bits. Δεν συνιστάται χρήση μνημονικής φράσης μικρότερου μήκους από 128 bit.",
@@ -74,7 +75,7 @@ final Map<String, String> greek = {
   "_Error": "Σφάλμα",
   "_Yes": "Ναι",
   "_No": "Όχι",
-  "_UseAnyways": "Θέλετε να προχωρήσετε",
+  "_UseAnyways": "Χρήση πάραυτα",
   "_Close": "Κλείσιμο",
   "_Success": "Επιτυχία",
   "_Failed": "Αποτυχία",

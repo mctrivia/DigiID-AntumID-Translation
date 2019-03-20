@@ -12,11 +12,11 @@ final Map<String, String> greek = {
   "setupCreateTitle": "Οδηγός Δημιουργίας Πορτοφολιού DigiID",
   "setupCreateWarn":
       "Γράψτε σε χαρτί, ή σκαλίστε σε μέταλο ή άλλο υλικό.\nΜΗΝ αποθηκεύσετε ηλεκτρονικά:",
+  "setupCreateTemplate": "Λήψη Προτύπου",
   "setupCreateInstructions": "Επιλέξτε τις λέξεις με την σειρά που εμφανίστηκαν:",
   "setupCreateButtonWaver":
       "Έχω αποθηκεύσει με ασφάλεια την φράση seed, εκτός σύνδεσης και σε ασφαλές μέρος.",
   "setupCreateFail": "Λάθος σειρά",
-  "setupCreateTemplate": "Λήψη Προτύπου",
   
   "setupRestoreTitle": "Οδηγός Ανάκτησης Πορτοφολιού DigiID",
   "setupRestoreInstructions": "Αντιγράψτε τη φράση seed εδώ:",
@@ -30,6 +30,7 @@ final Map<String, String> greek = {
   "settingAllowBiometric": "Έπιτρέπονται Βιομετρικά:",
   "settingStyle": "Στυλ:",
   "settingLanguage": "Γλώσσα:",
+  "settingVersion":"Έκδοση:",
 
   "digiidConfirmTitle": "Επιβεβαίωση τοποθεσίας",
   "digiidConfirmInstructions": "Εισάγετε PIN αν η μπάρα διυθύνσεων είπε ",
@@ -39,7 +40,6 @@ final Map<String, String> greek = {
 
   "digipassTitle": "Δημιουργός DigiPassword",
   "digipassSiteHint": "Τοποθεσία",
-  "digipassInstructionAbove": "Εισάγετε την τοποθεσία από πάνω, και στη συνέχεια τον κωδικό pin:",
   "digipassInstructionBelow": "Εισάγετε την τοποθεσία από κάτω, και στη συνέχεια τον κωδικό pin:",
   "digipassNote":
       "*Βάση στο seed του λογαριασμού σας και την πληροφορία που εισάγετε παραπάνω, θα παραχθεί ένας μοναδικός κωδικός για εσάς. Εάν εισάγετε την ίδια λέξη ή φράση επόμενη φορά, θα παραχθεί ο ίδιος κωδικός.",

@@ -27,6 +27,7 @@ final Map<String, String> russian = {
   "settingAllowBiometric": "Разрешить Биометрические:",
   "settingStyle": "Стиль:",
   "settingLanguage": "Язык:",
+  "settingVersion": "Version:",	//left english
 
   "digiidConfirmTitle": "Подтвердить Домен",
   "digiidConfirmInstructions": "Введите пин-код, если в адресной строке указано ",
@@ -39,6 +40,12 @@ final Map<String, String> russian = {
   "digipassInstructionBelow": "Введите домен ниже, затем введите пин:",
   "digipassNote": "*Исходя из начального числа вашей учетной записи и введенных выше данных, вы получите уникальный пароль для вас.  Если вы введете одно и то же слово или фразу во второй раз, будет сгенерирован тот же пароль.",
   "digipassPasswordCopy": "Ваш Пароль(нажмите, чтобы скопировать):",
+  "digipassSendToWidget1": "Send to ",	//left english
+//$widgetDomain
+  "digipassSendToWidget2": " widget",	//left english
+  "digipassSendingToWidget1": "Sending encrypted password to ",	//left english
+//$widgetDomain
+  "digipassSendingToWidget2": " widget",	//left english
 
   "warningInvalidChecksum": "Неверная контрольная сумма!  Вы уверены, что это правильно?",
   "warningShortMnemonic1": "Только мнемоническая фраза ",
@@ -60,6 +67,8 @@ final Map<String, String> russian = {
   "bioHint": "Сенсорный Датчик",
   "bioSuccess": "Отпечаток пальца распознан",
   "bioFail": "Отпечаток пальца не распознан.  Попробуйте снова.",
+
+  "alertCopyClip": "Copied to Clipboard",	//left english
 
   "_Back": "Назад",
   "_Submit": "Отправить",

@@ -27,6 +27,7 @@ final Map<String, String> spanish = {
   "settingAllowBiometric": "Permitir biométrico:",
   "settingStyle": "Estilo (reinicio requerido):",
   "settingLanguage": "Idioma:",
+  "settingVersion": "Version:",	//left english
 
   "digiidConfirmTitle": "Confirmar Dominio",
   "digiidConfirmInstructions": "Introduzca pin si la barra de direcciones dice ",
@@ -39,6 +40,12 @@ final Map<String, String> spanish = {
   "digipassInstructionBelow": "Ingrese el dominio abajo y luego ingrese el pin:",
   "digipassNote": "*En base a la información inicial de su cuenta y la entrada anterior, se generará una contraseña única para usted. Si ingresa la misma palabra o frase por segunda vez, se generará la misma contraseña.",
   "digipassPasswordCopy": "Su contraseña (toque para copiar):",
+  "digipassSendToWidget1": "Send to ",	//left english
+//$widgetDomain
+  "digipassSendToWidget2": " widget",	//left english
+  "digipassSendingToWidget1": "Sending encrypted password to ",	//left english
+//$widgetDomain
+  "digipassSendingToWidget2": " widget",	//left english
 
   "warningInvalidChecksum": "Suma de comprobación no válida ¿Estas seguro que esto es correcto?",
   "warningShortMnemonic1": "Frase mnemotécnica de solo ",
@@ -60,6 +67,8 @@ final Map<String, String> spanish = {
   "bioHint": "Toque el sensor",
   "bioSuccess": "Reconocimiento de huellas dactilares",
   "bioFail": "Huella digital no reconocida. Inténtalo de nuevo.",
+
+  "alertCopyClip": "Copied to Clipboard",	//left english
 
   "_Back": "Espalda",
   "_Submit": "Enviar",

@@ -27,6 +27,7 @@ final Map<String, String> italian = {
   "settingAllowBiometric": "Consenti l'uso biometrico:",
   "settingStyle": "Stile (riavvio richiesto):",
   "settingLanguage": "Lingua:",
+  "settingVersion": "Version:",	//left english
 
   "digiidConfirmTitle": "Conferma il dominio",
   "digiidConfirmInstructions": "Inserire il Pin (se richiesto)",
@@ -39,6 +40,12 @@ final Map<String, String> italian = {
   "digipassInstructionBelow": "Inserisci il dominio visibile sotto e quindi inserisci il pin:",
   "digipassNote": "*In base al seed associato al tuo account e all'input sopra, questo genererà una password univoca per te. Se inserisci la stessa parola o frase una seconda volta, verrà generata la stessa password.",
   "digipassPasswordCopy": "La tua password (tocca per copiare):",
+  "digipassSendToWidget1": "Send to ",	//left english
+//$widgetDomain
+  "digipassSendToWidget2": " widget",	//left english
+  "digipassSendingToWidget1": "Sending encrypted password to ",	//left english
+//$widgetDomain
+  "digipassSendingToWidget2": " widget",	//left english
 
   "warningInvalidChecksum": "Checksum non valido! Sei sicuro che sia corretto?",
   "warningShortMnemonic1": "La frase seed ha soli ",
@@ -60,6 +67,8 @@ final Map<String, String> italian = {
   "bioHint": "Tocca il sensore",
   "bioSuccess": "Impronta digitale riconosciuta",
   "bioFail": "Impronta digitale non riconosciuta. Riprova.",
+
+  "alertCopyClip": "Copied to Clipboard",	//left english
 
   "_Back": "Indietro",
   "_Submit": "Invia",

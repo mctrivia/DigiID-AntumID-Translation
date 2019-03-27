@@ -27,6 +27,7 @@ final Map<String, String> english = {
   "settingAllowBiometric": "Allow Biometric:",
   "settingStyle": "Style:",
   "settingLanguage": "Language:",
+  "settingVersion": "Version:",
 
   "digiidConfirmTitle": "Confirm Domain",
   "digiidConfirmInstructions": "Enter pin if address bar said ",
@@ -39,6 +40,12 @@ final Map<String, String> english = {
   "digipassInstructionBelow": "Enter domain below then enter pin:",
   "digipassNote": "*Based on your account seed and the input above this will generate a unique password for you.  If you input the same word or phrase a second time, the same password will be generated.",
   "digipassPasswordCopy": "Your Password(tap to copy):",
+  "digipassSendToWidget1": "Send to ",
+//$widgetDomain
+  "digipassSendToWidget2": " widget",
+  "digipassSendingToWidget1": "Sending encrypted password to ",
+//$widgetDomain
+  "digipassSendingToWidget2": " widget",
 
   "warningInvalidChecksum": "Invalid Checksum!  Are you sure this is correct?",
   "warningShortMnemonic1": "Mnemonic phrase only ",
@@ -60,6 +67,8 @@ final Map<String, String> english = {
   "bioHint": "Touch Sensor",
   "bioSuccess": "Fingerprint Recognized",
   "bioFail": "Fingerprint not recognized.  Try again.",
+
+  "alertCopyClip": "Copied to Clipboard",
 
   "_Back": "Back",
   "_Submit": "Submit",

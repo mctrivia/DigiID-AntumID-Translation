@@ -36,16 +36,18 @@ final Map<String, String> greek = {
 
   "digipassTitle": "Δημιουργός DigiPassword",
   "digipassSiteHint": "Τοποθεσία",
-  "digipassInstructionAbove": "Enter domain above then enter pin:",	//left english
+
+  "digipassInstructionAbove": "Εισάγετε την τοποθεσία και έπειτα τον κωδικό pin:", 
   "digipassInstructionBelow": "Εισάγετε την τοποθεσία από κάτω, και στη συνέχεια τον κωδικό pin:",
   "digipassNote": "*Βάση στο seed του λογαριασμού σας και την πληροφορία που εισάγετε παραπάνω, θα παραχθεί ένας μοναδικός κωδικός για εσάς. Εάν εισάγετε την ίδια λέξη ή φράση επόμενη φορά, θα παραχθεί ο ίδιος κωδικός.",
   "digipassPasswordCopy": "Ο κωδικός σας(πατήστε για αντιγραφή):",
-  "digipassSendToWidget1": "Send to ",	//left english
+  "digipassSendToWidget1": "Αποστολή στη μικροεφαρμογή ",  
 //$widgetDomain
-  "digipassSendToWidget2": " widget",	//left english
-  "digipassSendingToWidget1": "Sending encrypted password to ",	//left english
+  "digipassSendToWidget2": "", 
+  "digipassSendingToWidget1": "Αποστολή κρυπτογραφημένου κωδικού στη μικροεφαρμογή ", 
 //$widgetDomain
-  "digipassSendingToWidget2": " widget",	//left english
+  "digipassSendingToWidget2": "", 
+
 
   "warningInvalidChecksum": "Μη έγκυρο άρθροισμα ελέγχου (checksum)!  Είστε σίγουρος πως είναι σωστό?",
   "warningShortMnemonic1": "Μήκος μνημονικής φράσης μόνο",
@@ -68,7 +70,8 @@ final Map<String, String> greek = {
   "bioSuccess": "Δακτυλικό αποτύπωμα αναγνωρίστηκε",
   "bioFail": "Δακτυλικό αποτύπωμα ΔΕΝ αναγνωρίστηκε.  Προσπαθήστε ξανά.",
 
-  "alertCopyClip": "Copied to Clipboard",	//left english
+  "alertCopyClip": "Αντιγράφηκε στο πρόχειρο",
+
 
   "_Back": "Πίσω",
   "_Submit": "Υποβολή",

@@ -27,6 +27,7 @@ final Map<String, String> romanian = {
   "settingAllowBiometric": "Folosește tehnologia biometrică:",
   "settingStyle": "Tip:",
   "settingLanguage": "Limba:",
+  "settingVersion": "Version:",	//left english
 
   "digiidConfirmTitle": "Confirmă domeniul",
   "digiidConfirmInstructions": "Introduce PIN-ul (dacă este cerut)",
@@ -39,6 +40,12 @@ final Map<String, String> romanian = {
   "digipassInstructionBelow": "Introduce domeniul mai jos, iar după care PIN-ul:",
   "digipassNote": "*Bazându-ne pe propoziția seed a contului tău și datele introduse mai sus, o să fie generată o parola unică. Dacă data viitoare vei insera același date, o să fie generată aceeași parolă.",
   "digipassPasswordCopy": "Parola ta (apasă pentru a copia):",
+  "digipassSendToWidget1": "Send to ",	//left english
+//$widgetDomain
+  "digipassSendToWidget2": " widget",	//left english
+  "digipassSendingToWidget1": "Sending encrypted password to ",	//left english
+//$widgetDomain
+  "digipassSendingToWidget2": " widget",	//left english
 
   "warningInvalidChecksum": "Checksum invalid!  Ești sigur că este corect?",
   "warningShortMnemonic1": "Propoziția seed are doar ",
@@ -60,6 +67,8 @@ final Map<String, String> romanian = {
   "bioHint": "Senzor de atingere",
   "bioSuccess": "Amprentă recunoscută",
   "bioFail": "Amprentă necunoscută.  Încearcă din nou.",
+
+  "alertCopyClip": "Copied to Clipboard",	//lefft english
 
   "_Back": "Înapoi",
   "_Submit": "Trimite",

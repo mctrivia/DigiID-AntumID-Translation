@@ -36,6 +36,7 @@ final Map<String, String> greek = {
 
   "digipassTitle": "Δημιουργός DigiPassword",
   "digipassSiteHint": "Τοποθεσία",
+
   "digipassInstructionAbove": "Εισάγετε την τοποθεσία και έπειτα τον κωδικό pin:", 
   "digipassInstructionBelow": "Εισάγετε την τοποθεσία από κάτω, και στη συνέχεια τον κωδικό pin:",
   "digipassNote": "*Βάση στο seed του λογαριασμού σας και την πληροφορία που εισάγετε παραπάνω, θα παραχθεί ένας μοναδικός κωδικός για εσάς. Εάν εισάγετε την ίδια λέξη ή φράση επόμενη φορά, θα παραχθεί ο ίδιος κωδικός.",
@@ -46,6 +47,7 @@ final Map<String, String> greek = {
   "digipassSendingToWidget1": "Αποστολή κρυπτογραφημένου κωδικού στη μικροεφαρμογή ", 
 //$widgetDomain
   "digipassSendingToWidget2": "", 
+
 
   "warningInvalidChecksum": "Μη έγκυρο άρθροισμα ελέγχου (checksum)!  Είστε σίγουρος πως είναι σωστό?",
   "warningShortMnemonic1": "Μήκος μνημονικής φράσης μόνο",
@@ -69,6 +71,7 @@ final Map<String, String> greek = {
   "bioFail": "Δακτυλικό αποτύπωμα ΔΕΝ αναγνωρίστηκε.  Προσπαθήστε ξανά.",
 
   "alertCopyClip": "Αντιγράφηκε στο πρόχειρο",
+
 
   "_Back": "Πίσω",
   "_Submit": "Υποβολή",

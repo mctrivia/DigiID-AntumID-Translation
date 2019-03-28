@@ -27,6 +27,7 @@ final Map<String, String> dutch= {
   "settingAllowBiometric": "Biometrie toestaan:",
   "settingStyle": "Stijl(Herstarten is noodzakelijk):",
   "settingLanguage": "Taal:",
+  "settingVersion": "Versie:",
 
   "digiidConfirmTitle": "Bevestig domein",
   "digiidConfirmInstructions": "Geef uw pincode in als de adresbalk overeenkomt met ",
@@ -39,10 +40,13 @@ final Map<String, String> dutch= {
   "digipassInstructionBelow": "Vul het domein hieronder in en vervolgens uw pincode:",
   "digipassNote": "*Op basis van uw account sleutel en de bovenstaande invoer genereert dit een uniek wachtwoord voor u. Als u hetzelfde woord of dezelfde zin een tweede keer invoert, wordt hetzelfde wachtwoord gegenereerd.",
   "digipassPasswordCopy": "Uw wachtwoord (tik om te kopiëren):",
+  "digipassSendToWidget1": "Verzenden naar ",
+  "digipassSendToWidget2": " plug-in",
+  "digipassSendingToWidget1": "Gecodeerd wachtwoord verzenden naar ",
+  "digipassSendingToWidget2": " plug-in",	
 
   "warningInvalidChecksum": "Onjuiste checksum! Bent u zeker dat dit correct is?",
   "warningShortMnemonic1": "Alleen mnemonisch woorden ",
-//$enteredBitLength
   "warningShortMnemonic2": " bits. mnemonisch woorden zijn korter dan 128 bit deze worden niet aanbevolen!",
 
   "errorNoCamera": "App heeft geen cameratoestemming!",
@@ -61,6 +65,8 @@ final Map<String, String> dutch= {
   "bioSuccess": "Vingerafdruk herkend",
   "bioFail": "Vingerafdruk niet herkend. Probeer het opnieuw.",
 
+  "alertCopyClip": "Gekopieerd naar het klembord",
+  
   "_Back": "Terug",
   "_Submit": "Enter",
   "_Cancel": "Annuleren",

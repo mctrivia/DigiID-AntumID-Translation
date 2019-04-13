@@ -3,22 +3,22 @@ final Map<String, String> greek = {
   "languageCode": "gr",
   "languageMnemonic": "english", //options: english,french,italian,spanish
 
-  "setupTitle": "Εγκατάσταση DigiID:",
+  "setupTitle": "Εγκατάσταση Digi-ID:",
   "setupWarn": "Είναι πολύ σημαντικό να βεβαιωθείτε πως είστε σε ασφαλή τοποθεσία, μακρυά από το οπτικό πεδίο καμερών ή άλλων ανρθώπων.",
   "setupButtonCreate": "Δημιουργία Πορτοφολιού",
   "setupButtonRecover": "Ανάκτηση Πορτοφολιού",
 
-  "setupCreateTitle": "Οδηγός Δημιουργίας Πορτοφολιού DigiID",
+  "setupCreateTitle": "Οδηγός Δημιουργίας Πορτοφολιού Digi-ID",
   "setupCreateWarn": "Γράψτε σε χαρτί, ή σκαλίστε σε μέταλο ή άλλο υλικό.\nΜΗΝ αποθηκεύσετε ηλεκτρονικά:",
   "setupCreateTemplate": "Λήψη Προτύπου",
   "setupCreateInstructions": "Επιλέξτε τις λέξεις με την σειρά που εμφανίστηκαν:",
   "setupCreateButtonWaver": "Έχω αποθηκεύσει με ασφάλεια την φράση seed, εκτός σύνδεσης και σε ασφαλές μέρος.",
   "setupCreateFail": "Λάθος σειρά",
   
-  "setupRestoreTitle": "Οδηγός Ανάκτησης Πορτοφολιού DigiID",
+  "setupRestoreTitle": "Οδηγός Ανάκτησης Πορτοφολιού Digi-ID",
   "setupRestoreInstructions": "Αντιγράψτε τη φράση seed εδώ:",
 
-  "setupSaveTitle": "Προστασία DigiID Pin",
+  "setupSaveTitle": "Προστασία Digi-ID Pin",
   "setupSaveSetPin": "Ορίστε κωδικό pin:",
   "setupSaveSaving":  "Αποθήκευση Seed",
   "setupSavePinNote": "*Άλλαξαν νούμερα για να αποφευχθεί παρακολούθηση των δαχτύλων.",
@@ -58,7 +58,7 @@ final Map<String, String> greek = {
   "errorUnknown": "Άγνωστο σφάλμα: ",
   "errorInvalidPin": "Μη έγκυρο Pin",
   "errorNoConnection": "Χωρίς σύνδεση",
-  "errorNotDigiIDQR": "QR μη συμβατό με DigiID ",
+  "errorNotDigiIDQR": "QR μη συμβατό με Digi-ID ",
 
   "bioSettingsButton": "Πήγαινε στις Ρυθμίσεις",
   "bioSettingsDescriptionAndroid": "Η συσκευή δεν έχει ρυθμιστεί για υποστήριξη δακτυλικού αποτυπώματος. Μεταβείτε στις 'Ρυθμίσεις > Ασφάλεια' για να προσθέσετε το δακτυλικό σας αποτύπωμα.",

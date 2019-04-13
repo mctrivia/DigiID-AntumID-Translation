@@ -3,22 +3,22 @@ final Map<String, String> dutch= {
   "languageCode": "nl",
   "languageMnemonic": "english", //options: english,french,italian,spanish
 
-  "setupTitle": "DigiID installatie:",
+  "setupTitle": "Digi-ID installatie:",
   "setupWarn": "Het is erg belangrijk om ervoor te zorgen dat u op een veilige plaats bent zonder camera's of mensen die kijken voordat u verdergaat.",
   "setupButtonCreate": "Nieuwe portemonnee",
   "setupButtonRecover": "Herstel portemonnee",
 
-  "setupCreateTitle": "Maak DigiID portemonnee",
+  "setupCreateTitle": "Maak Digi-ID portemonnee",
   "setupCreateWarn": "Schrijf op papier of graveer in een stukje metaal.\nBewaar dit niet digitaal:",
   "setupCreateTemplate": "Sjabloon Downloaden",
   "setupCreateInstructions": "Klik op de woorden die daarnet zijn verschenen, hou rekenning met de volgorde:",
   "setupCreateButtonWaver": "Ik heb mijn herstelsleutel veilig offline opgeslagen en dit op een veilige plaats",
   "setupCreateFail": "Verkeerde volgorde",
   
-  "setupRestoreTitle": "Herstel DigiID portemonnee",
+  "setupRestoreTitle": "Herstel Digi-ID portemonnee",
   "setupRestoreInstructions": "kopieer mnemonisch woorden hier:",
 
-  "setupSaveTitle": "DigiID Pincode beveiligen",
+  "setupSaveTitle": "Digi-ID Pincode beveiligen",
   "setupSaveSetPin": "Stel pincode in:",
   "setupSaveSaving":  "Bezig met bewaren van de sleutelwoorden",
   "setupSavePinNote": "*Getallen wijzigen om vinger-tracering te voorkomen.",
@@ -53,7 +53,7 @@ final Map<String, String> dutch= {
   "errorUnknown": "Onbekende fout: ",
   "errorInvalidPin": "Pincode onjuist",
   "errorNoConnection": "Geen connectie",
-  "errorNotDigiIDQR": "Ongeldige DigiID QR Code",
+  "errorNotDigiIDQR": "Ongeldige Digi-ID QR Code",
   
   "bioSettingsButton": "Ga naar instellingen",
   "bioSettingsDescriptionAndroid": "Uw vingerafdruk is nog niet ingesteld op uw apparaat. Ga naar 'Instellingen> Beveiliging' om uw vingerafdruk toe te voegen.",

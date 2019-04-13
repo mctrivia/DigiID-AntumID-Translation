@@ -3,22 +3,22 @@ final Map<String, String> french = {
   "languageCode": "fr",
   "languageMnemonic": "french", //options: english,french,italian,spanish
 
-  "setupTitle": "Configuration de DigiID:",
+  "setupTitle": "Configuration de Digi-ID:",
   "setupWarn": "Il est très important de vous assurer que vous êtes dans un endroit sécurisé, sans caméra et à l abris de tout regards, avant de continuer.",
   "setupButtonCreate": "Créer un Nouveau Portefeuille",
   "setupButtonRecover": "Récupérer un Portefeuille",
 
-  "setupCreateTitle": "Créateur de Portefeuille DigiID",
+  "setupCreateTitle": "Créateur de Portefeuille Digi-ID",
   "setupCreateWarn": "Écrivez sur du papier ou graver sur du métal.\nNe pas sauvegarder électroniquement:",
   "setupCreateTemplate": "Télécharger le modèle",
   "setupCreateInstructions": "Cliquez sur les mots dans l'ordre de leur apparition:",
   "setupCreateButtonWaver": "J'ai sauvegarde en toute sécurité ma phrase dans un endroit sûr et hors ligne",
   "setupCreateFail": "Mauvais Ordre",
 
-  "setupRestoreTitle": "Restaurateur de Portefeuille DigiID",
+  "setupRestoreTitle": "Restaurateur de Portefeuille Digi-ID",
   "setupRestoreInstructions": "Copier la phrase mnémonique ici:",
 
-  "setupSaveTitle": "Proteger DigiID avec un code secret",
+  "setupSaveTitle": "Proteger Digi-ID avec un code secret",
   "setupSaveSetPin": "Créer votre code secret:",
   "setupSaveSaving":  "Sauvegarde des seeds",
   "setupSavePinNote": "*Les chiffres ont été déplacés pour éviter le trackage de vos doigts.",
@@ -56,7 +56,7 @@ final Map<String, String> french = {
   "errorUnknown": "Erreur inconnue: ",
   "errorInvalidPin": "Code secret invalide",
   "errorNoConnection": "Pas de Connection",
-  "errorNotDigiIDQR": "Pas de DigiID QR",
+  "errorNotDigiIDQR": "Pas de Digi-ID QR",
 
   "bioSettingsButton": "Retour aux paramètres",
   "bioSettingsDescriptionAndroid": "L'empreinte digitale n'est pas configurée sur votre appareil. Allez dans 'Paramètres> Sécurité' pour ajouter votre empreinte digitale.",

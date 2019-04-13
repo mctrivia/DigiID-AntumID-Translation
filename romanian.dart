@@ -3,22 +3,22 @@ final Map<String, String> romanian = {
   "languageCode": "ro",
   "languageMnemonic": "english", //options: english,french,italian,spanish
 
-  "setupTitle": "Setări DigiID:",
+  "setupTitle": "Setări Digi-ID:",
   "setupWarn": "Înainte de a continua, asigură-te că te afli într-o locație în siguranță fără oameni și camere de supraveghere în juru tău.",
   "setupButtonCreate": "Creează un nou portofel",
   "setupButtonRecover": "Recuperează un portofel deja existent",
 
-  "setupCreateTitle": "Crearea portofelului DigiID",
+  "setupCreateTitle": "Crearea portofelului Digi-ID",
   "setupCreateWarn": "Scrie pe o foaie cuvintele de mai jos în aceeași ordine.\nPentru motive de securitate, a se nu se salva pe niciun dispozitiv electronic:",
   "setupCreateTemplate": "Descarcă șablonul",
   "setupCreateInstructions": "Apasă pe cuvintele de mai jos în aceeași ordinea în care le-ai scris:",
   "setupCreateButtonWaver": "Am salvat offline propoziția seed într-un loc doar mie cunoscut",
   "setupCreateFail": "Cuvintele selectate sunt puse în ordinea greșită",
 
-  "setupRestoreTitle": "Recuperarea portofelului DigiID",
+  "setupRestoreTitle": "Recuperarea portofelului Digi-ID",
   "setupRestoreInstructions": "Copiază propoziția seed aici:",
 
-  "setupSaveTitle": "DigiID Protecție prin PIN",
+  "setupSaveTitle": "Digi-ID Protecție prin PIN",
   "setupSaveSetPin": "Alege PIN-ul:",
   "setupSaveSaving":  "Salvarea seed-ului",
   "setupSavePinNote": "*Numere schimbate pentru a evita regăsirea amprentelor.",
@@ -56,7 +56,7 @@ final Map<String, String> romanian = {
   "errorUnknown": "Eroare necunoscută: ",
   "errorInvalidPin": "PIN invalid",
   "errorNoConnection": "Fără conexiune la internet",
-  "errorNotDigiIDQR": "Nu este un cod QR DigiID",
+  "errorNotDigiIDQR": "Nu este un cod QR Digi-ID",
 
   "bioSettingsButton": "Du-te la setări",
   "bioSettingsDescriptionAndroid": "Amprentele nu sunt setate pe acest dispozitiv. Navighează la 'Setări > Securitate' pentru a adăuga amprentele tale.",

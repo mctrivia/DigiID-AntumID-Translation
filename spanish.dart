@@ -3,22 +3,22 @@ final Map<String, String> spanish = {
   "languageCode": "es",
   "languageMnemonic": "spanish", //options: english,french,italian,spanish
 
-  "setupTitle": "Configuración de DigiID:",
+  "setupTitle": "Configuración de Digi-ID:",
   "setupWarn": "Es muy importante asegurarse de estar en un lugar seguro sin cámaras ni personas mirando antes de continuar.",
   "setupButtonCreate": "Crear Nueva Cartera",
   "setupButtonRecover": "Recuperar Billetera",
 
-  "setupCreateTitle": "Creador de Cartera DigiID",
+  "setupCreateTitle": "Creador de Cartera Digi-ID",
   "setupCreateWarn": "Escribir en papel o punzón en metal.\nNo almacenar electrónicamente:",
   "setupCreateTemplate": "Descargar Plantilla",
   "setupCreateInstructions": "Haga clic en las palabras para que aparezcan:",
   "setupCreateButtonWaver": "He guardado de forma segura mi frase semilla fuera de línea y en un lugar seguro",
   "setupCreateFail": "Orden Incorrecto",
 
-  "setupRestoreTitle": "Restaurador de Cartera DigiID",
+  "setupRestoreTitle": "Restaurador de Cartera Digi-ID",
   "setupRestoreInstructions": "Copia frase mnemotécnica aquí:",
 
-  "setupSaveTitle": "DigiID Pin Protect",
+  "setupSaveTitle": "Digi-ID Pin Protect",
   "setupSaveSetPin": "Establecer un pin:",
   "setupSaveSaving":  "Semilla de Ahorro",
   "setupSavePinNote": "*Números cambiados para evitar el seguimiento de los dedos.",
@@ -56,7 +56,7 @@ final Map<String, String> spanish = {
   "errorUnknown": "Error desconocido: ",
   "errorInvalidPin": "Pin Inválido",
   "errorNoConnection": "Sin Conexión",
-  "errorNotDigiIDQR": "No DigiID QR",
+  "errorNotDigiIDQR": "No Digi-ID QR",
 
   "bioSettingsButton": "Ir a la configuración",
   "bioSettingsDescriptionAndroid": "la huella digital no está configurada en su dispositivo. Vaya a 'Configuración> Seguridad' para agregar su huella digital.",

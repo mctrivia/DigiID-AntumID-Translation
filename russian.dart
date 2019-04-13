@@ -3,22 +3,22 @@ final Map<String, String> russian = {
   "languageCode": "ру",
   "languageMnemonic": "english", //options: english,french,italian,spanish
 
-  "setupTitle": "Установка DigiID:",
+  "setupTitle": "Установка Digi-ID:",
   "setupWarn": "Очень важно удостовериться, что Вы находитесь в безопасном месте без камер или людей, смотрящих, прежде чем Вы продолжите.",
   "setupButtonCreate": "Создать новый кошелек",
   "setupButtonRecover": "Восстановить кошелек",
 
-  "setupCreateTitle": "Создатель кошелька DigiID",
+  "setupCreateTitle": "Создатель кошелька Digi-ID",
   "setupCreateWarn": "Напишите на бумаге или пробейте на метале.\nНе хранить на электронных устройствах:",
   "setupCreateTemplate": "Загрузите шаблон",
   "setupCreateInstructions": "Нажмите слова по порядку появления:",
   "setupCreateButtonWaver": "Я безопасно сохранил свою фразу офлайн и в безопасном месте",
   "setupCreateFail": "Неправильный порядок",
 
-  "setupRestoreTitle": "Восстановление кошелька DigiID",
+  "setupRestoreTitle": "Восстановление кошелька Digi-ID",
   "setupRestoreInstructions": "Скопируйте мнемоническую фразу сюда:",
 
-  "setupSaveTitle": "Защита пин-кодом DigiID",
+  "setupSaveTitle": "Защита пин-кодом Digi-ID",
   "setupSaveSetPin": "Установить пин-код:",
   "setupSaveSaving":  "Сохранить фразу",
   "setupSavePinNote": "*Номера изменены, чтобы предотвратить отслеживание пальцев.",
@@ -56,7 +56,7 @@ final Map<String, String> russian = {
   "errorUnknown": "Неизвестная Ошибка: ",
   "errorInvalidPin": "Неверный PIN-код",
   "errorNoConnection": "Нет Соединения",
-  "errorNotDigiIDQR": "Не DigiID QR",
+  "errorNotDigiIDQR": "Не Digi-ID QR",
 
   "bioSettingsButton": "Перейдите в настройки",
   "bioSettingsDescriptionAndroid": "Отпечаток пальца не установлен на вашем устройстве. Перейдите в «Настройки> Безопасность», чтобы добавить свой отпечаток.",

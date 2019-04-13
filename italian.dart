@@ -3,22 +3,22 @@ final Map<String, String> italian = {
   "languageCode": "it",
   "languageMnemonic": "italian", //options: english,french,italian,spanish
 
-  "setupTitle": "Impostazione DigiID:",
+  "setupTitle": "Impostazione Digi-ID:",
   "setupWarn": "È molto importante assicurarsi di essere in un luogo sicuro senza telecamere o persone che guardano prima di continuare.",
   "setupButtonCreate": "Crea un nuovo portafoglio",
   "setupButtonRecover": "Recupera un portafoglio esistente",
 
-  "setupCreateTitle": "Creazione portfolio DigiID",
+  "setupCreateTitle": "Creazione portfolio Digi-ID",
   "setupCreateWarn": "Scrivi nello stesso ordine le seguenti parole su un pezzo di carta.\nPer ragioni di sicurezza è meglio non salvarle su un dispositivo elettronico:",
   "setupCreateTemplate": "Scarica il template",
   "setupCreateInstructions": "Fai clic sulle parole nell'ordine in cui sono apparse:",
   "setupCreateButtonWaver": "Ho salvato offline in modo sicuro la mia frase seed in un posto solo da me conosciuto",
   "setupCreateFail": "Ordine errato",
 
-  "setupRestoreTitle": "Recupera portafoglio DigiID",
+  "setupRestoreTitle": "Recupera portafoglio Digi-ID",
   "setupRestoreInstructions": "Inserisci qui la tua frase seed per poter accedere al portafoglio:",
 
-  "setupSaveTitle": "DigiID Protezione tramite Pin",
+  "setupSaveTitle": "Digi-ID Protezione tramite Pin",
   "setupSaveSetPin": "Imposta un Pin:",
   "setupSaveSaving":  "Salva seed",
   "setupSavePinNote": "*Numeri sono cambiati per impedire il tracciamento delle tue impronte digitali.",
@@ -56,7 +56,7 @@ final Map<String, String> italian = {
   "errorUnknown": "Errore sconosciuto: ",
   "errorInvalidPin": "Pin invalido",
   "errorNoConnection": "Nessuna connessione",
-  "errorNotDigiIDQR": "Codice QR DigiID non valido",
+  "errorNotDigiIDQR": "Codice QR Digi-ID non valido",
 
   "bioSettingsButton": "Vai alle impostazioni",
   "bioSettingsDescriptionAndroid": "L'impronta digitale non è impostata sul tuo dispositivo. Vai su 'Impostazioni> Sicurezza' per aggiungere l'impronta digitale.",

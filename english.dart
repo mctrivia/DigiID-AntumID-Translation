@@ -9,7 +9,7 @@ final Map<String, String> english = {
   "setupButtonRecover": "Recover Wallet",
 
   "setupCreateTitle": "Digi-ID Wallet Creator",
-  "setupCreateWarn": "Write on paper or punch in metal.\nDo not store electronically:",
+  "setupCreateWarn": "Do not store electronically. Write on paper or punch in metal and store safely. There is no way to recover without these words:",
   "setupCreateTemplate": "Download Template",
   "setupCreateInstructions": "Click words in order they appeared:",
   "setupCreateButtonWaver": "I have safely stored my seed phrase offline and in a safe place",

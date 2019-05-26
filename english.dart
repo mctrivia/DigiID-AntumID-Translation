@@ -25,6 +25,7 @@ final Map<String, String> english = {
 
   "settingTitle": "Settings",
   "settingAllowBiometric": "Allow Biometric:",
+  "settingQuickDigiPassword": "DigiPassword Plugin Quick Mode:",
   "settingStyle": "Style:",
   "settingLanguage": "Language:",
   "settingVersion": "Version:",
